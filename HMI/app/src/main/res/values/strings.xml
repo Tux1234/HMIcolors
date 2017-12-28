@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">HMIcolors</string>
+
+    <string name="sehtest_01_01">Pinoccio-Gesicht</string>
+    <string name="sehtest_01_02">15:29</string>
+    <string name="sehtest_01_03">15</string>
+
+    <string name="sehtest_02_01">Siebzehn</string>
+    <string name="sehtest_02_02">plus Vier</string>
+    <string name="sehtest_02_03">Vier</string>
+
+    <string name="sehtest_03_01">Fußgängerampel</string>
+    <string name="sehtest_03_02">rotes Ampelmännchen</string>
+    <string name="sehtest_03_03">grünes gehendes Ampelmännchen</string>
+
+    <string name="sehtest_04_01">stehendes Männchen in rot</string>
+    <string name="sehtest_04_02">gehendes Männchen in grün</string>
+    <string name="sehtest_04_03">Peace-Symbol</string>
+
+    <string name="sehtest_05_01">stehendes Männchen in grün</string>
+    <string name="sehtest_05_02">gehendes Männchen in grün</string>
+    <string name="sehtest_05_03">Peace-Symbol</string>
+
+    <string name="sehtest_06_01">Buchstabe P</string>
+    <string name="sehtest_06_02">Gesicht</string>
+    <string name="sehtest_06_03">kleiner Hai</string>
+
+    <string name="sehtest_07_01">Buchstabe P</string>
+    <string name="sehtest_07_02">Gesicht</string>
+    <string name="sehtest_07_03">Fisch</string>
+
+    <string name="sehtest_08_01">Buchstabe X</string>
+    <string name="sehtest_08_02">Gesicht</string>
+    <string name="sehtest_08_03">Apfel</string>
+
+    <string name="sehtest_09_001">Zahl Fünf</string>
+    <string name="sehtest_09_002">Gesicht</string>
+    <string name="sehtest_09_003">Bunte Farbblasen</string>
+
+    <string name="sehtest_10_01">Zahl Zwei</string>
+    <string name="sehtest_10_02">Schwan</string>
+    <string name="sehtest_10_03">Doppelnull</string>
+
+    <string name="turorial">Diese Serie zeigt eine Reihe von Farbtafeln. Sie sind mit Farbstiften auf Papier gemalt. Autor ist der Berliner Künstler Martin Mißfeldt, der die Serie 1994 erstellt hat. Idee war, die Ästethik der Farbtafeln - die man zum Beispiel für den Führerschein braucht - vor Augen zu führen</string>
+</resources>
